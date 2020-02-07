@@ -17,3 +17,5 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | conceptuel | https://instagram.com/conceptuel |
 | nellojoint | https://instagram.com/nellojoint |
 | ciunart | https://instagram.com/ciunart | 
+| jepharaujo | https://instagram.com/jepharaujo |
+| thai.furtado | https://instagram.com/thai.furtado |

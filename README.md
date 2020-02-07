@@ -5,3 +5,4 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | --- | --- |
 | edoardottt | https://www.instagram.com/edoardottt |
 | ppablorodrigues | https://instagram.com/ppablorodrigues |
+| filippo.soccini | https://instagram.com/filippo.soccini |

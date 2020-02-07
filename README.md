@@ -7,7 +7,7 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | ppablorodrigues | https://instagram.com/ppablorodrigues |
 | filippo.soccini | https://instagram.com/filippo.soccini |
 | instapiz_27 | https://instagram.com/instapiz_27 |
-| kisikstudio_ | 'https://instagram.com/kisikstudio_' |
+| kisikstudio_ | https://instagram.com/kisikstudio_ |
 | kevinkriado | https://instagram.com/kevinkriado |
 | alessandropadoa | https://instagram.com/alessandropadoa |
 | instamaskin | https://instagram.com/instamaskin |

@@ -11,7 +11,7 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | kevinkriado | https://instagram.com/kevinkriado |
 | alessandropadoa | https://instagram.com/alessandropadoa |
 | instamaskin | https://instagram.com/instamaskin |
-| \_\_\_thelifeofpablo | https://instagram.com/\_\_\_thelifeofpablo |
+| \_\_\_thelifeofpablo | https://instagram.com/___thelifeofpablo |
 | akkappagraphic | https://instagram.com/akkappagraphic |
 | piotar_boa | https://instagram.com/piotar_boa |
 | conceptuel | https://instagram.com/conceptuel |

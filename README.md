@@ -9,7 +9,7 @@
 | ppablorodrigues | https://instagram.com/ppablorodrigues |
 | filippo.soccini | https://instagram.com/filippo.soccini |
 | instapiz_27 | https://instagram.com/instapiz_27 |
-| kisikstudio_ | https://instagram.com/kisikstudio_ |
+| kisikstudio_ | [https://instagram.com/kisikstudio_](https://instagram.com/kisikstudio_) |
 | kevinkriado | https://instagram.com/kevinkriado |
 | alessandropadoa | https://instagram.com/alessandropadoa |
 | instamaskin | https://instagram.com/instamaskin |
@@ -46,7 +46,7 @@
 | alinavelnikovskaya | https://instagram.com/alinavelnikovskaya |
 | malf.visuals | https://instagram.com/malf.visuals |
 | aandrebrryan | https://instagram.com/aandrebrryan |
-| caebbo_ | https://instagram.com/caebbo_ |
+| caebbo_ | [https://instagram.com/caebbo_](https://instagram.com/caebbo_) |
 | gianmarcoseverino | https://instagram.com/gianmarcoseverino |
 | pepperciu | https://instagram.com/pepperciu |
 | lorenzobulletz | https://instagram.com/lorenzobulletz |

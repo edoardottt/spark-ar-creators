@@ -1,6 +1,8 @@
 # spark-ar-creators
 A list of Spark AR Creators. Open an issue or send me an email if you want to be added.❤️
 
+![spark-ar-studio](https://github.com/edoardottt/spark-ar-creators/blob/master/sparkar.webp)
+
 | Username | Link to Profile |
 | --- | --- |
 | edoardottt | https://instagram.com/edoardottt |

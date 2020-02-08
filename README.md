@@ -403,7 +403,7 @@
 | andreantonella | https://instagram.com/andreantonella |
 | kasaigreen | https://instagram.com/kasaigreen |
 | pedro_l_j | https://instagram.com/pedro_l_j |
-| supernerd_ | https://instagram.com/supernerd_ |
+| supernerd_ | [https://instagram.com/supernerd_](https://instagram.com/supernerd_) |
 | ewamos | https://instagram.com/ewamos |
 | marcelaalegrias | https://instagram.com/marcelaalegrias |
 | regitadyahayu | https://instagram.com/regitadyahayu |

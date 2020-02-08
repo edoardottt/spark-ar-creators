@@ -356,3 +356,5 @@
 | andersandme | https://instagram.com/andersandme |
 | sephclifford | https://instagram.com/sephclifford |
 | ojotapcosta | https://instagram.com/ojotapcosta |
+| victorboncas | https://instagram.com/victorboncas |
+| patulecofilomeno | https://instagram.com/patulecofilomeno |

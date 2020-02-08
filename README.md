@@ -3,7 +3,7 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 
 | Username | Link to Profile |
 | --- | --- |
-| edoardottt | https://www.instagram.com/edoardottt |
+| edoardottt | https://instagram.com/edoardottt |
 | ppablorodrigues | https://instagram.com/ppablorodrigues |
 | filippo.soccini | https://instagram.com/filippo.soccini |
 | instapiz_27 | https://instagram.com/instapiz_27 |
@@ -20,3 +20,4 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | jepharaujo | https://instagram.com/jepharaujo |
 | thaifurtado | https://instagram.com/thaifurtado |
 | ethangaskill | https://instagram.com/ethangaskill |
+| paigepiskin | https://instagram.com/paigepiskin |

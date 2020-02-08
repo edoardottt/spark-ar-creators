@@ -179,3 +179,5 @@
 | antoniolana21 | https://instagram.com/antoniolana21 |
 | ben_crd | https://instagram.com/ben_crd |
 | cedpra | https://instagram.com/cedpra |
+| cristianbasher | https://instagram.com/cristianbasher |
+| digitalsigga | https://instagram.com/digitalsigga |

@@ -17,7 +17,7 @@ def add_func():
         t = f.read()
     ls = []
     for elem in text:
-        if elem in t: ls.add(elem)
+        if elem in t: ls.append(elem)
     if len(ls)!=0: return 'Delete '+str(ls)
     with open(new_file,'a+') as f:
         for i in range(len(text)):

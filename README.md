@@ -364,3 +364,5 @@
 | dorkycam | https://instagram.com/dorkycam |
 | uncleapomeme | https://instagram.com/uncleapomeme |
 | stellabellingeri | https://instagram.com/stellabellingeri |
+| francolanfur | https://instagram.com/francolanfur |
+| vr_ar_vienna | https://instagram.com/vr_ar_vienna |

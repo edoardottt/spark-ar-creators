@@ -158,3 +158,4 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | vvesnaleto | https://instagram.com/vvesnaleto |
 | ilovediany | https://instagram.com/ilovediany |
 | sophie | https://instagram.com/sophie |
+| akikokoga | https://instagram.com/akikokoga | 

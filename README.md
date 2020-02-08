@@ -186,7 +186,7 @@
 | edniskanda | https://instagram.com/edniskanda |
 | fedetc.exe | https://instagram.com/fedetc.exe |
 | elisey.d | https://instagram.com/elisey.d |
-| nfs11_ | https://instagram.com/nfs11_ |
+| nfs11_ | [https://instagram.com/nfs11_](https://instagram.com/nfs11_) |
 | andreaross.i | https://instagram.com/andreaross.i |
 | ryofilters | https://instagram.com/ryofilters |
 | koebane.exr | https://instagram.com/koebane.exr |
@@ -200,9 +200,10 @@
 | gennaro_jack | https://instagram.com/gennaro_jack |
 | kewhudson | https://instagram.com/kewhudson |
 | emilia_gozzano | https://instagram.com/emilia_gozzano |
-| maurogianfre | https://instagram.com/maurogianfre || rosterizer | https://instagram.com/rosterizer |
+| maurogianfre | https://instagram.com/maurogianfre |
+| rosterizer | https://instagram.com/rosterizer |
 | francescomazzinii | https://instagram.com/francescomazzinii |
-| westwxxd_ | https://instagram.com/westwxxd_ |
+| westwxxd_ | [https://instagram.com/westwxxd_](https://instagram.com/westwxxd_) |
 | joostgeijsen | https://instagram.com/joostgeijsen |
 | edordo_48 | https://instagram.com/edordo_48 |
 | somewheresystems | https://instagram.com/somewheresystems |
@@ -225,7 +226,7 @@
 | filipbaotic | https://instagram.com/filipbaotic |
 | justgeouk | https://instagram.com/justgeouk |
 | net_vla | https://instagram.com/net_vla |
-| _f_a_b_i_o_ | https://instagram.com/_f_a_b_i_o_ |
+| _f_a_b_i_o_ | [https://instagram.com/_f_a_b_i_o_](https://instagram.com/_f_a_b_i_o_) |
 | paikesetous | https://instagram.com/paikesetous |
 | _drksmblian | https://instagram.com/_drksmblian |
 | azmacraifawh | https://instagram.com/azmacraifawh |
@@ -255,12 +256,12 @@
 | gijswahl | https://instagram.com/gijswahl |
 | shujaat.javed | https://instagram.com/shujaat.javed |
 | catamangudo | https://instagram.com/catamangudo |
-| _alisasi_ | https://instagram.com/_alisasi_ |
+| _alisasi_ | [https://instagram.com/_alisasi_](https://instagram.com/_alisasi_) |
 | tori_ray | https://instagram.com/tori_ray |
 | kevinaditya | https://instagram.com/kevinaditya |
 | anirudh_th007 | https://instagram.com/anirudh_th007 |
 | franckarnel | https://instagram.com/franckarnel |
-| esterrojo_ | https://instagram.com/esterrojo_ |
+| esterrojo_ | [https://instagram.com/esterrojo_](https://instagram.com/esterrojo_) |
 | anthony.grusha | https://instagram.com/anthony.grusha |
 | biggorillamagic | https://instagram.com/biggorillamagic |
 | kevinxd_design | https://instagram.com/kevinxd_design |
@@ -275,7 +276,7 @@
 | snehaaldhruv | https://instagram.com/snehaaldhruv |
 | salvatoreambrosio17 | https://instagram.com/salvatoreambrosio17 |
 | eggyfebr | https://instagram.com/eggyfebr |
-| badpug_ | https://instagram.com/badpug_ |
+| badpug_ | [https://instagram.com/badpug_](https://instagram.com/badpug_) |
 | its.gavriel | https://instagram.com/its.gavriel |
 | nil.monro | https://instagram.com/nil.monro |
 | aidan.at | https://instagram.com/aidan.at |
@@ -328,7 +329,7 @@
 | tadejarenner | https://instagram.com/tadejarenner |
 | studioanrk | https://instagram.com/studioanrk |
 | dzraufana | https://instagram.com/dzraufana |
-| maucardoso_ | https://instagram.com/maucardoso_ |
+| maucardoso_ | [https://instagram.com/maucardoso_](https://instagram.com/maucardoso_) |
 | svenhphotography | https://instagram.com/svenhphotography |
 | yayanhr7 | https://instagram.com/yayanhr7 |
 | ghettorock_lab | https://instagram.com/ghettorock_lab |

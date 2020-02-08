@@ -360,3 +360,5 @@
 | patulecofilomeno | https://instagram.com/patulecofilomeno |
 | ellicapri | https://instagram.com/ellicapri |
 | sarki_errakui | https://instagram.com/sarki_errakui |
+| nathaniavishnevsky | https://instagram.com/nathaniavishnevsky |
+| dorkycam | https://instagram.com/dorkycam |

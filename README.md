@@ -21,3 +21,4 @@ A list of Spark AR Creators. Open an issue or send me an email if you want to be
 | thaifurtado | https://instagram.com/thaifurtado |
 | ethangaskill | https://instagram.com/ethangaskill |
 | paigepiskin | https://instagram.com/paigepiskin |
+| wowfilterscom | https://instagram.com/wowfilterscom |

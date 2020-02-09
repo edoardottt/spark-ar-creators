@@ -26,7 +26,7 @@
 | davidoreilly | https://instagram.com/davidoreilly |
 | giacomo_ce | https://instagram.com/giacomo_ce |
 | jessicavangone | https://instagram.com/jessicavangone |
-| _lukabazuka_ | https://instagram.com/_lukabazuka_ |
+| _lukabazuka_ | [https://instagram.com/_lukabazuka_](https://instagram.com/_lukabazuka_) |
 | korobiv_denis | https://instagram.com/korobiv_denis |
 | dforl | https://instagram.com/dforl |
 | instapiz_27 | https://instagram.com/instapiz_27 |
@@ -54,13 +54,14 @@
 | filippocarlone | https://instagram.com/filippocarlone |
 | sk1kko | https://instagram.com/sk1kko |
 | federicotrionfera | https://instagram.com/federicotrionfera |
-| \_\_federicarusso | https://instagram.com/__federicarusso |
+| \_\_federicarusso | [https://instagram.com/_\_federicarusso](https://instagram.com/__federicarusso) |
 | fabrizio_cotugno | https://instagram.com/fabrizio_cotugno |
 | elenapugger | https://instagram.com/elenapugger |
 | franknanninga | https://instagram.com/franknanninga |
-| makarova_darya_ | https://instagram.com/makarova_darya_ |
+| makarova_darya_ | [https://instagram.com/makarova_darya_](https://instagram.com/makarova_darya_) |
 | nahir.esper | https://instagram.com/nahir.esper |
-| iamcraiglewis2 | https://instagram.com/iamcraiglewis2 || loloarmdz | https://instagram.com/loloarmdz |
+| iamcraiglewis2 | https://instagram.com/iamcraiglewis2 |
+| loloarmdz | https://instagram.com/loloarmdz |
 | sergiobaaaaaaa | https://instagram.com/sergiobaaaaaaa |
 | cybersup | https://instagram.com/cybersup |
 | at.augmented | https://instagram.com/at.augmented |

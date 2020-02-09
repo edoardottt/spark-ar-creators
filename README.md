@@ -468,3 +468,9 @@
 | jay_oh_lp | https://instagram.com/jay_oh_lp |
 | jessicaa_canale_ | https://instagram.com/jessicaa_canale_ |
 | mercurioretrograda | https://instagram.com/mercurioretrograda |
+| luciesoltova | https://instagram.com/luciesoltova |
+| chadwitch | https://instagram.com/chadwitch |
+| exit_spain | https://instagram.com/exit_spain |
+| prakashph | https://instagram.com/prakashph |
+| gstv_andre | https://instagram.com/gstv_andre |
+| diorele | https://instagram.com/diorele |

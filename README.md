@@ -459,3 +459,5 @@
 | AlvaroSicilia | https://instagram.com/AlvaroSicilia |
 | masha_casey | https://instagram.com/masha_casey |
 | eppe.exe | https://instagram.com/eppe.exe |
+| legrenierludique | https://instagram.com/legrenierludique |
+| magvaerdig | https://instagram.com/magvaerdig |

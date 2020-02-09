@@ -7,6 +7,7 @@
 | --- | --- |
 | edoardottt | https://instagram.com/edoardottt |
 | filippo.soccini | https://instagram.com/filippo.soccini |
+| piotar_boa | https://instagram.com/piotar_boa |
 | instapiz_27 | https://instagram.com/instapiz_27 |
 | kisikstudio_ | [https://instagram.com/kisikstudio_](https://instagram.com/kisikstudio_) |
 | kevinkriado | https://instagram.com/kevinkriado |
@@ -14,7 +15,6 @@
 | instamaskin | https://instagram.com/instamaskin |
 | \_\_\_thelifeofpablo | https://instagram.com/___thelifeofpablo |
 | akkappagraphic | https://instagram.com/akkappagraphic |
-| piotar_boa | https://instagram.com/piotar_boa |
 | conceptuel | https://instagram.com/conceptuel |
 | nellojoint | https://instagram.com/nellojoint |
 | ciunart | https://instagram.com/ciunart | 

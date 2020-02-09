@@ -467,7 +467,7 @@
 | anitaesse | https://instagram.com/anitaesse |
 | dimitrivallein | https://instagram.com/dimitrivallein |
 | jay_oh_lp | https://instagram.com/jay_oh_lp |
-| jessicaa_canale_ | https://instagram.com/jessicaa_canale_ |
+| jessicaa_canale_ | [https://instagram.com/jessicaa_canale_](https://instagram.com/jessicaa_canale_) |
 | mercurioretrograda | https://instagram.com/mercurioretrograda |
 | luciesoltova | https://instagram.com/luciesoltova |
 | chadwitch | https://instagram.com/chadwitch |

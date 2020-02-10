@@ -507,7 +507,7 @@
 | jamesfrewin | https://instagram.com/jamesfrewin |
 | neeshaposts | https://instagram.com/neeshaposts |
 | entropia_f | https://instagram.com/entropia_f |
-| lucascheung_ | https://instagram.com/lucascheung_ |
+| lucascheung_ | [https://instagram.com/lucascheung_](https://instagram.com/lucascheung_) |
 | woolito_studio | https://instagram.com/woolito_studio |
 | malifp | https://instagram.com/malifp |
 | cristiano.marotta | https://instagram.com/cristiano.marotta |

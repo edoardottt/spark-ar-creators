@@ -535,3 +535,9 @@
 | ks.serko | https://instagram.com/ks.serko |
 | a.t.stroud | https://instagram.com/a.t.stroud |
 | codiblack | https://instagram.com/codiblack |
+| antony.ferrigno | https://instagram.com/antony.ferrigno |
+| ryleevigor | https://instagram.com/ryleevigor |
+| vi.de.or.bit | https://instagram.com/vi.de.or.bit |
+| diselipin | https://instagram.com/diselipin |
+| headraft.xr | https://instagram.com/headraft.xr |
+| strong_fil | https://instagram.com/strong_fil |

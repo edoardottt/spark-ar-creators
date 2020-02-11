@@ -584,7 +584,7 @@
 | wunostacy | https://instagram.com/wunostacy |
 | anima.gramma | https://instagram.com/anima.gramma |
 | arisha.la | https://instagram.com/arisha.la |
-| luca_macaluso_ | https://instagram.com/luca_macaluso_ |
+| luca_macaluso_ | [https://instagram.com/luca_macaluso_](https://instagram.com/luca_macaluso_) |
 | hen_rico | https://instagram.com/hen_rico |
 | costantino_forte | https://instagram.com/costantino_forte |
 | nsuestudio | https://instagram.com/nsuestudio |

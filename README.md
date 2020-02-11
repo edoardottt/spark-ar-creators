@@ -595,3 +595,10 @@
 | CosasdePuma | https://instagram.com/CosasdePuma |
 | sughoshpandey | https://instagram.com/sughoshpandey |
 | andhikamhndra | https://instagram.com/andhikamhndra |
+| malina96 | https://instagram.com/malina96 |
+| romanrolnik | https://instagram.com/romanrolnik |
+| yulia_beijing | https://instagram.com/yulia_beijing |
+| na.ta.luna | https://instagram.com/na.ta.luna |
+| nibbio92 | https://instagram.com/nibbio92 |
+| ivansasi | https://instagram.com/ivansasi |
+| adkandari | https://instagram.com/adkandari |

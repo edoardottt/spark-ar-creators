@@ -712,3 +712,5 @@
 | suemicriscuolo | https://instagram.com/suemicriscuolo |
 | gu_christopher | https://instagram.com/gu_christopher |
 | sarionss | https://instagram.com/sarionss |
+| desinz | https://instagram.com/desinz |
+| manuelhandika | https://instagram.com/manuelhandika |

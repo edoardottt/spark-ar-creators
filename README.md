@@ -719,3 +719,10 @@
 | paulostoker | https://instagram.com/paulostoker |
 | nicvedere | https://Instagram.com/nicvedere |
 | ssstudiosssam | https://instagram.com/ssstudiosssam |
+| andypicci | https://instagram.com/andypicci |
+| wrld.space | https://instagram.com/wrld.space |
+| jmerenda | https://instagram.com/jmerenda |
+| Beauty3000 | https://instagram.com/Beauty3000 |
+| mathieu.ernst | https://instagram.com/mathieu.ernst |
+| Tokyy | https://instagram.com/Tokyy |
+| yarovyivladyslav | https://instagram.com/yarovyivladyslav |

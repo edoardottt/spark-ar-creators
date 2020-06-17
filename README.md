@@ -742,6 +742,7 @@
 | pelayodiaz | https://instagram.com/pelayodiaz |
 | vamonke | https://instagram.com/vamonke |
 | bangerooo | https://instagram.com/bangerooo |
+<<<<<<< HEAD
 | alwayscodingsomething | https://instagram.com/alwayscodingsomething |
 | jannahbondhill | https://instagram.com/jannahbondhill |
 | sfwelm | https://instagram.com/sfwelm |
@@ -755,3 +756,5 @@
 | serefitfun | https://instagram.com/serefitfun |
 | framancinii | https://instagram.com/framancinii |
 | danielafruzza | https://instagram.com/danielafruzza |
+=======
+>>>>>>> 626411d2ee4caf67b15a3f79ac083a945df611aa

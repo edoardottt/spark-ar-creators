@@ -754,3 +754,9 @@
 | danielafruzza | https://instagram.com/danielafruzza |
 | 3bbsanc3z | https://instagram.com/3bbsanc3z |
 | gourav_majee | https://instagram.com/gourav_majee |
+| stephenspace | https://instagram.com/stephenspace |
+| evgenia_e6 | https://instagram.com/evgenia_e6 |
+| alannawinz | https://instagram.com/alannawinz |
+| thebandanaboi | https://instagram.com/thebandanaboi |
+| blackyy.rose | https://instagram.com/blackyy.rose |
+| hmm.lin | https://instagram.com/hmm.lin |

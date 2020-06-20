@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-- Username: <YOUR-USERNAME-HERE>
+- Username: INSERT-USERNAME-HERE
   
-- Link to Profile: https://www.instagram.com/<YOUR-USERNAME-HERE>
+- Link to Profile: https://www.instagram.com/INSERT-USERNAME-HERE
 
 - [x] I opened an issue
 - [ ] I added a star on this project

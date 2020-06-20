@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-Username: <YOUR-USERNAME-HERE>
-Link to Profile: https://www.instagram.com/<YOUR-USERNAME-HERE>
+- Username: <YOUR-USERNAME-HERE>
+  
+- Link to Profile: https://www.instagram.com/<YOUR-USERNAME-HERE>
 
+- [x] I opened an issue
 - [ ] I added a star on this project
 - [ ] I checked (with CTRL+F) if I'm yet on this list

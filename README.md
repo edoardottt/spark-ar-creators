@@ -774,3 +774,4 @@
 | create.renz | https://instagram.com/create.renz |
 | corinthsuarez | https://instagram.com/corinthsuarez |
 | ishaantrehan | https://instagram.com/ishaantrehan |
+| alfred_david23 | https://instagram.com/alfred_david23 |

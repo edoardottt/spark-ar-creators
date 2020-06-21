@@ -13,4 +13,4 @@ assignees: ''
 
 - [x] I opened an issue
 - [ ] I added a star on this project
-- [ ] I checked (with CTRL+F) if I'm yet on this list
+- [ ] I checked (with CTRL+F) if I'm already in this list

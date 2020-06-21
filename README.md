@@ -820,3 +820,4 @@
 | gerardovarone | https://instagram.com/gerardovarone |
 | burakartist | https://instagram.com/burakartist |
 | farziphotographer | https://instagram.com/farziphotographer |
+| frenzy.works | https://instagram.com/frenzy.works |

@@ -818,4 +818,5 @@
 | via_bernas | https://instagram.com/via_bernas |
 | pkaran_ | [https://instagram.com/pkaran_](https://instagram.com/pkaran_) |
 | gerardovarone | https://instagram.com/gerardovarone |
-| burakartist | https://instagram.com/burakartist
+| burakartist | https://instagram.com/burakartist |
+| farziphotographer | https://instagram.com/farziphotographer |

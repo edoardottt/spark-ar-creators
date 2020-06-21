@@ -799,3 +799,12 @@
 | waagner_cwb | https://instagram.com/waagner_cwb |
 | Utkarshaarfa | https://instagram.com/Utkarshaarfa |
 | aaronnervs | https://instagram.com/aaronnervs |
+| jonshelleyart | https://instagram.com/jonshelleyart |
+| mieshirlv | https://instagram.com/mieshirlv |
+| iamleonard_ | [https://instagram.com/iamleonard_](https://instagram.com/iamleonard_) |
+| tatiana.art15 | https://instagram.com/tatiana.art15 |
+| emory.tan | https://instagram.com/emory.tan |
+| karinedacurry | https://instagram.com/karinedacurry |
+| raditamag | https://instagram.com/raditamag |
+| sarahstrohmii | https://instagram.com/sarahstrohmii |
+| _boscayolo | https://instagram.com/_boscayolo |

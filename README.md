@@ -822,3 +822,4 @@
 | frenzy.works | https://instagram.com/frenzy.works |
 | mydoodlesateme | https://instagram.com/mydoodlesateme |
 | j0tappe | https://instagram.com/j0tappe |
+| jshu.creator | https://instagram.com/jshu.creator |

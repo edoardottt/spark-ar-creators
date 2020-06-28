@@ -17,12 +17,15 @@ def add_func():
     ls = []
     for elem in text:
         if elem in t: ls.append(elem)
-    if len(ls)!=0: return 'To check: '+str(ls)
+    if len(ls)!=0: return "Already inside: " + str(ls)
+    count = 0
     with open(new_file,'a+') as f:
         for i in range(len(text)):
+            count += 1
             elem = text[i]
             stri = stringed(elem)
             f.write(stri)
+    print("Added {} creators".format(count))
     return 'OK'
 
 def stringed(elem):

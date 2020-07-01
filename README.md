@@ -867,3 +867,4 @@
 | martinaelli | https://instagram.com/martinaelli |
 | jaaado_ | [https://instagram.com/jaaado_](https://instagram.com/jaaado_) |
 | francescoacriph | https://instagram.com/francescoacriph |
+| vedant.shr1vastava | https://instagram.com/vedant.shr1vastava |

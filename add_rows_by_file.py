@@ -17,7 +17,10 @@ def add_func():
     ls = []
     for elem in text:
         if elem in t: ls.append(elem)
-    if len(ls)!=0: return "Already inside: " + str(ls)
+    if len(ls)!=0: 
+        print("Already inside: " + str(len(ls)))
+        for elem in ls:
+            text.remove(elem)
     count = 0
     with open(new_file,'a+') as f:
         for i in range(len(text)):

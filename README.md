@@ -6,6 +6,7 @@
 | Username | Link to Profile |
 | --- | --- |
 | edoardottt | https://instagram.com/edoardottt |
+| jelleattheoffice | https://instagram.com/jelleattheoffice |
 | filippo.soccini | https://instagram.com/filippo.soccini |
 | piotar_boa | https://instagram.com/piotar_boa |
 | instapiz_27 | https://instagram.com/instapiz_27 |

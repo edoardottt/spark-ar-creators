@@ -910,7 +910,7 @@
 | evaight | https://instagram.com/evaight |
 | kofigramm | https://instagram.com/kofigramm |
 | dvir_navot | https://instagram.com/dvir_navot |
-| bradley_downer___ | [https://instagram.com/bradley_downer___](https://instagram.com/bradley_downer___) |
+| bradley_downer_\_\_ | [https://instagram.com/bradley_downer_\_\_](https://instagram.com/bradley_downer___) |
 | sherline_kinyanjui | https://instagram.com/sherline_kinyanjui |
 | jahfameherda | https://instagram.com/jahfameherda |
 | peppocola | https://instagram.com/peppocola |
@@ -944,3 +944,4 @@
 | thisiscaputo | https://instagram.com/thisiscaputo |
 | diegorenemartin | https://instagram.com/diegorenemartin |
 | mattiaarmenio | https://instagram.com/mattiaarmenio |
+| _.nfikri | https://www.instagram.com/_.nfikri |

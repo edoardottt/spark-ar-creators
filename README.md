@@ -871,3 +871,4 @@
 | indie_gamedev | https://instagram.com/indie_gamedev |
 | monteezus | https://instagram.com/monteezus |
 | jorik.rosa | https://instagram.com/jorik.rosa |
+| mszerel | https://instagram.com/mszerel |

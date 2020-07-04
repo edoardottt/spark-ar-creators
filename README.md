@@ -870,3 +870,4 @@
 | vedant.shr1vastava | https://instagram.com/vedant.shr1vastava |
 | indie_gamedev | https://instagram.com/indie_gamedev |
 | monteezus | https://instagram.com/monteezus |
+| jorik.rosa | https://instagram.com/jorik.rosa |

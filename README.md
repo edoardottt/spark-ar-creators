@@ -2668,4 +2668,3 @@
 | marinocapitanio | https://instagram.com/marinocapitanio |
 | shotbyrod | https://instagram.com/shotbyrod |
 | huseyinkonukseven | https://instagram.com/huseyinkonukseven |
-| placeholder | https://instagram.com/placeholder |

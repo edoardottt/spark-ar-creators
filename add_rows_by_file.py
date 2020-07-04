@@ -8,7 +8,7 @@ https://edoardoottavianelli.it
 import sys
 
 def add_func():
-    word = sys.argv[1]
+    word = "scheduled.txt"
     new_file = 'README.md'
     with open(word) as f:
         text = f.read().split()
@@ -26,6 +26,8 @@ def add_func():
             stri = stringed(elem)
             f.write(stri)
     print("Added {} creators".format(count))
+    with open(word,"w") as f:
+        f.write("placeholder")
     return 'OK'
 
 def stringed(elem):

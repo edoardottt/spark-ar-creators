@@ -13,7 +13,7 @@
 | kevinkriado | https://instagram.com/kevinkriado |
 | alessandropadoa | https://instagram.com/alessandropadoa |
 | instamaskin | https://instagram.com/instamaskin |
-| _\_\_thelifeofpablo | [https://instagram.com/_\_\_thelifeofpablo](https://instagram.com/___thelifeofpablo) |
+| \_\_\_thelifeofpablo | [https://instagram.com/\_\_\_thelifeofpablo](https://instagram.com/___thelifeofpablo) |
 | akkappagraphic | https://instagram.com/akkappagraphic |
 | conceptuel | https://instagram.com/conceptuel |
 | nellojoint | https://instagram.com/nellojoint |
@@ -26,7 +26,7 @@
 | davidoreilly | https://instagram.com/davidoreilly |
 | giacomo_ce | https://instagram.com/giacomo_ce |
 | jessicavangone | https://instagram.com/jessicavangone |
-| _lukabazuka_ | [https://instagram.com/_lukabazuka_](https://instagram.com/_lukabazuka_) |
+| \_lukabazuka\_ | [https://instagram.com/\_lukabazuka\_](https://instagram.com/_lukabazuka_) |
 | korobiv_denis | https://instagram.com/korobiv_denis |
 | dforl | https://instagram.com/dforl |
 | instapiz_27 | https://instagram.com/instapiz_27 |

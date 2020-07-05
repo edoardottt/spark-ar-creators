@@ -9,7 +9,6 @@
 | jelleattheoffice | https://instagram.com/jelleattheoffice |
 | filippo.soccini | https://instagram.com/filippo.soccini |
 | piotar_boa | https://instagram.com/piotar_boa |
-| instapiz_27 | https://instagram.com/instapiz_27 |
 | kisikstudio_ | [https://instagram.com/kisikstudio_](https://instagram.com/kisikstudio_) |
 | kevinkriado | https://instagram.com/kevinkriado |
 | alessandropadoa | https://instagram.com/alessandropadoa |

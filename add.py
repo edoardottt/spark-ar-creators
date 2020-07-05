@@ -21,8 +21,9 @@ def check_duplicate_readme():
         text = f.read()
     duplicates = []
     for creator in creators:
-        creator = " " + format_user(creator) + " "
-        if text.count(creator) > 1 and creator not in duplicates:
+        spaced_creator = " " + creator + " "
+        formatted_creator = " " + format_user(creator) + " "
+        if (text.count(spaced_creator) > 1 or text.count(formatted_creator) > 1) and creator not in duplicates:
             duplicates.append(creator)
     return duplicates
 

@@ -1,7 +1,29 @@
 ![spark-ar-studio](https://github.com/edoardottt/spark-ar-creators/blob/master/images/sparkar.webp)
 
-
 **List of Spark AR Creators. Open an issue or contact me if you want to be added**❤️
+<!-- badges -->
+<p align="center">
+    <!-- mainteinance -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/maintained-yes.svg" alt="Mainteinance yes" />
+      </a>
+      <!-- pr-welcome -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/pr-welcome.svg" alt="pr welcome" />
+      </a>
+    <!-- ask me anything -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/ask-me-anything.svg" alt="ask me anything" />
+      </a>
+    <!-- made with python -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/made-with-python.svg" alt="made-with-python" />
+      </a>
+    <!-- built with heart -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/built-with-heart.svg" alt="built with heart" />
+      </a>
+</p>
 
 | Username | Link to Profile |
 | --- | --- |

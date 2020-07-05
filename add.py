@@ -3,6 +3,7 @@
 """
 @author: edoardottt
 https://edoardoottavianelli.it
+https://github.com/edoardottt/spark-ar-creators
 """
 
 import csv

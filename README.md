@@ -19,10 +19,6 @@
       <a href="https://edoardoottavianelli.it">
         <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/made-with-python.svg" alt="made-with-python" />
       </a>
-    <!-- built with heart -->
-      <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/built-with-heart.svg" alt="built with heart" />
-      </a>
 </p>
 
 | Username | Link to Profile |

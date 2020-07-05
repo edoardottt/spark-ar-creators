@@ -64,11 +64,9 @@ def insert_users_readme(users,not_ok):
 def insert_users_creators(users,not_ok):
     for elem in not_ok: users.remove(elem)
     print("[-] Inserting users in creators...")
-    with open("creators.csv", mode='a') as f:
-        writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    with open("creators.csv",'a') as f:
         for elem in users:
-            elem = elem + ","
-            writer.writerow([elem])
+            f.write(elem + "," + "\n")
     print("[+] Added {} creators into creators.".format(len(users)))
 
 def present_in_readme(users):

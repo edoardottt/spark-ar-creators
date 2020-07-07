@@ -91,22 +91,26 @@ def check_duplicate_scheduled():
     return duplicates
 
 def insert_users_readme(users,not_ok):
-    for elem in not_ok: users.remove(elem)
     print("[-] Inserting users in README...")
+    count = 0
     with open("README.md","a+") as f:
         for i in range(len(users)):
             elem = users[i]
-            stri = stringed(elem)
-            f.write(stri)
-    print("[+] Added {} creators into README.".format(len(users)))
+            if elem not in not_ok:
+                count += 1
+                stri = stringed(elem)
+                f.write(stri)
+    print("[+] Added {} creators into README.".format(count))
 
 def insert_users_creators(users,not_ok):
-    for elem in not_ok: users.remove(elem)
     print("[-] Inserting users in creators...")
+    count = 0
     with open("creators.csv",'a') as f:
         for elem in users:
-            f.write(elem + "," + "\n")
-    print("[+] Added {} creators into creators.".format(len(users)))
+            if elem not in not_ok:
+                count += 1
+                f.write(elem + "," + "\n")
+    print("[+] Added {} creators into creators.".format(count))
 
 def present_in_readme(users):
     print("[-] Checking if users already in README...")

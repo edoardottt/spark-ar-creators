@@ -2963,3 +2963,5 @@
 | sakura\_lun | [https://instagram.com/sakura\_lun](https://instagram.com/sakura_lun) |
 | cherwin0528 | https://instagram.com/cherwin0528 |
 | elweondelosfiltros | https://instagram.com/elweondelosfiltros |
+| isgabos | https://instagram.com/isgabos |
+| shanetizon | https://instagram.com/shanetizon |

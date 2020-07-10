@@ -25,8 +25,8 @@
 
 | Username | Link to Profile |
 | --- | --- |
-| edoardottt | https://instagram.com/edoardottt |
-| jelleattheoffice | https://instagram.com/jelleattheoffice |
+| edoardottt | [https://instagram.com/edoardottt](https://instagram.com/edoardottt) |
+| jelleattheoffice | [https://instagram.com/jelleattheoffice](https://instagram.com/jelleattheoffice) |
 | filippo.soccini | https://instagram.com/filippo.soccini |
 | piotar_boa | https://instagram.com/piotar_boa |
 | kisikstudio_ | [https://instagram.com/kisikstudio_](https://instagram.com/kisikstudio_) |

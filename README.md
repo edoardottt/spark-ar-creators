@@ -2981,3 +2981,6 @@
 | \_valerio.\_ | [https://instagram.com/\_valerio.\_](https://instagram.com/_valerio._) |
 | iamgeri\_c | [https://instagram.com/iamgeri\_c](https://instagram.com/iamgeri_c) |
 | pkaran\_ | [https://instagram.com/pkaran\_](https://instagram.com/pkaran_) |
+| lucaanzano | https://instagram.com/lucaanzano |
+| zalightr | https://instagram.com/zalightr |
+| a.fngii | https://instagram.com/a.fngii |

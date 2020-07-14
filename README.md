@@ -2989,3 +2989,4 @@
 | yologram\_creations | [https://instagram.com/yologram\_creations](https://instagram.com/yologram_creations) |
 | matthias\_neumayer | [https://instagram.com/matthias\_neumayer](https://instagram.com/matthias_neumayer) |
 | Matteo.mezzanato | https://instagram.com/Matteo.mezzanato |
+| fernanda.nuso | https://instagram.com/fernanda.nuso |

@@ -2990,3 +2990,6 @@
 | matthias\_neumayer | [https://instagram.com/matthias\_neumayer](https://instagram.com/matthias_neumayer) |
 | Matteo.mezzanato | https://instagram.com/Matteo.mezzanato |
 | fernanda.nuso | https://instagram.com/fernanda.nuso |
+| \_rayleung | [https://instagram.com/\_rayleung](https://instagram.com/_rayleung) |
+| antoniodimuoio\_ | [https://instagram.com/antoniodimuoio\_](https://instagram.com/antoniodimuoio_) |
+| instalazzaa | https://instagram.com/instalazzaa |

@@ -2996,3 +2996,10 @@
 | lesfotosdeltet | https://instagram.com/lesfotosdeltet |
 | daffaghiffariku | https://instagram.com/daffaghiffariku |
 | tamaradantas | https://instagram.com/tamaradantas |
+| esteban\_zabala | [https://instagram.com/esteban\_zabala](https://instagram.com/esteban_zabala) |
+| chiara.villani | https://instagram.com/chiara.villani |
+| tadyellow | https://instagram.com/tadyellow |
+| danielesaba.it | https://instagram.com/danielesaba.it |
+| danielemarcatoo | https://instagram.com/danielemarcatoo |
+| asia.morelli | https://instagram.com/asia.morelli |
+| ekrulila | https://instagram.com/ekrulila |

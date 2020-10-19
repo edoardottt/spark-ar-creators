@@ -55,7 +55,7 @@ def check_duplicate_readme():
             if line_count == 0: line_count += 1
             else:
                 creators.append(row[0])
-    with open("README.md") as f:
+    with open("README.md", encoding="utf8") as f:
         text = f.read()
     duplicates = []
     for creator in creators:
@@ -67,7 +67,7 @@ def check_duplicate_readme():
 
 def check_duplicate_creators():
     print("[-] Checking duplicates in creators...")
-    with open("creators.csv") as csv_file:
+    with open("creators.csv",encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
         creators = []
@@ -93,7 +93,7 @@ def check_duplicate_scheduled():
 def insert_users_readme(users,not_ok):
     print("[-] Inserting users in README...")
     count = 0
-    with open("README.md","a+") as f:
+    with open("README.md","a+",encoding="utf8") as f:
         for i in range(len(users)):
             elem = users[i]
             if elem not in not_ok:
@@ -114,7 +114,7 @@ def insert_users_creators(users,not_ok):
 
 def present_in_readme(users):
     print("[-] Checking if users already in README...")
-    with open("README.md") as f:
+    with open("README.md",encoding="utf8") as f:
         text = f.read()
     present = []
     for elem in users:
@@ -123,7 +123,7 @@ def present_in_readme(users):
 
 def present_in_creators(users):
     print("[-] Checking if users already in creators...")
-    with open("creators.csv") as csv_file:
+    with open("creators.csv",encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
         creators = []
@@ -138,7 +138,7 @@ def present_in_creators(users):
     return present    
 
 def read_scheduled():
-    with open("scheduled.txt") as f:
+    with open("scheduled.txt",encoding="utf8") as f:
         text = f.read().split()
     return text
 
@@ -154,7 +154,7 @@ def stringed(elem):
     return stri
 
 def flush_scheduled():
-    with open("scheduled.txt","w") as f:
+    with open("scheduled.txt","w",encoding="utf8") as f:
         f.write("placeholder")
     print("[+] Scheduled flushed!")
 

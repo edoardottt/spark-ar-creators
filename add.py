@@ -46,6 +46,11 @@ https://sparkar.facebook.com/ar-studio/
 import csv
 
 def check_duplicate_readme():
+    """
+    Check for duplicate duplicate duplicates.
+
+    Args:
+    """
     print("[-] Checking duplicates in README...")
     with open("creators.csv") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -66,6 +71,11 @@ def check_duplicate_readme():
     return duplicates
 
 def check_duplicate_creators():
+    """
+    Check for duplicate duplicate duplicates.
+
+    Args:
+    """
     print("[-] Checking duplicates in creators...")
     with open("creators.csv",encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -82,6 +92,11 @@ def check_duplicate_creators():
     return duplicates
 
 def check_duplicate_scheduled():
+    """
+    Return a list of duplicates are duplicated.
+
+    Args:
+    """
     print("[-] Checking duplicates in scheduled...")
     creators = read_scheduled()
     duplicates = []
@@ -91,6 +106,13 @@ def check_duplicate_scheduled():
     return duplicates
 
 def insert_users_readme(users,not_ok):
+    """
+    Insert the users readme.
+
+    Args:
+        users: (todo): write your description
+        not_ok: (todo): write your description
+    """
     print("[-] Inserting users in README...")
     count = 0
     with open("README.md","a+",encoding="utf8") as f:
@@ -103,6 +125,13 @@ def insert_users_readme(users,not_ok):
     print("[+] Added {} creators into README.".format(count))
 
 def insert_users_creators(users,not_ok):
+    """
+    Inserts the user can add_creates.
+
+    Args:
+        users: (todo): write your description
+        not_ok: (bool): write your description
+    """
     print("[-] Inserting users in creators...")
     count = 0
     with open("creators.csv",'a') as f:
@@ -113,6 +142,12 @@ def insert_users_creators(users,not_ok):
     print("[+] Added {} creators into creators.".format(count))
 
 def present_in_readme(users):
+    """
+    Returns a list of readme is readme
+
+    Args:
+        users: (todo): write your description
+    """
     print("[-] Checking if users already in README...")
     with open("README.md",encoding="utf8") as f:
         text = f.read()
@@ -122,6 +157,12 @@ def present_in_readme(users):
     return present
 
 def present_in_creators(users):
+    """
+    Returns a list of dictionaries containing all user.
+
+    Args:
+        users: (todo): write your description
+    """
     print("[-] Checking if users already in creators...")
     with open("creators.csv",encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
@@ -138,15 +179,32 @@ def present_in_creators(users):
     return present    
 
 def read_scheduled():
+    """
+    Reads the scheduler.
+
+    Args:
+    """
     with open("scheduled.txt",encoding="utf8") as f:
         text = f.read().split()
     return text
 
 def format_user(elem):
+    """
+    Format a user.
+
+    Args:
+        elem: (str): write your description
+    """
     result = elem.replace("_","\_")    
     return result
     
 def stringed(elem):
+    """
+    Return a string representation of an element.
+
+    Args:
+        elem: (str): write your description
+    """
     if "_" not in elem: stri = '| '+elem+' | '+'https://instagram.com/'+elem+' |\n'
     else:
         elem_ok = format_user(elem)
@@ -154,11 +212,21 @@ def stringed(elem):
     return stri
 
 def flush_scheduled():
+    """
+    Flush scheduled scheduled scheduled scheduler.
+
+    Args:
+    """
     with open("scheduled.txt","w",encoding="utf8") as f:
         f.write("placeholder")
     print("[+] Scheduled flushed!")
 
 def add_func():
+    """
+    Add a new function.
+
+    Args:
+    """
     candidates = read_scheduled()
     if candidates[0] == "placeholder":
         print("[!] Scheduled empty.")

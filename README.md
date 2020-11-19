@@ -3043,3 +3043,5 @@
 | britordesigns | https://instagram.com/britordesigns |
 | tusfiltrosdemoda | https://instagram.com/tusfiltrosdemoda |
 | paulamalencia | https://instagram.com/paulamalencia |
+| dleacoe | https://instagram.com/dleacoe |
+| verzerk | https://instagram.com/verzerk |

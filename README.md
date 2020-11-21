@@ -3125,3 +3125,5 @@
 | ciril.tr | https://instagram.com/ciril.tr |
 | fucks1dney | https://instagram.com/fucks1dney |
 | xrsolucoes | https://instagram.com/xrsolucoes |
+| dvriiiv | https://instagram.com/dvriiiv |
+| yasinrazack | https://instagram.com/yasinrazack |

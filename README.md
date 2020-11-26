@@ -3150,3 +3150,6 @@
 | Shirgeva | https://instagram.com/Shirgeva |
 | battistoniii | https://instagram.com/battistoniii |
 | ourgreendays | https://instagram.com/ourgreendays |
+| prapti\_k98 | [https://instagram.com/prapti\_k98](https://instagram.com/prapti_k98) |
+| nicolaskadri | https://instagram.com/nicolaskadri |
+| realbakari | https://instagram.com/realbakari |

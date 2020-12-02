@@ -179,7 +179,7 @@ def read_scheduled():
 
 
 def format_user(elem):
-    result = elem.replace("_", "\_")
+    result = elem.replace("_", r"\_")
     return result
 
 

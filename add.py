@@ -5,8 +5,12 @@
 ================================
 
 @author: edoardottt
+
 https://edoardoottavianelli.it
+
 https://github.com/edoardottt/spark-ar-creators
+
+https://instagram.com/edoardottt
 
 ================================
 
@@ -47,7 +51,10 @@ import csv
 
 
 def check_duplicate_readme():
-    print("[-] Checking duplicates in README...")
+    """Check if in the README.md file there
+    are some duplicate profiles.
+    """
+    print("[-] Checking duplicates in README file...")
     with open("creators.csv") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=",")
         line_count = 0
@@ -71,7 +78,10 @@ def check_duplicate_readme():
 
 
 def check_duplicate_creators():
-    print("[-] Checking duplicates in creators...")
+    """Check if in the creators.csv file there
+    are some duplicate profiles.
+    """
+    print("[-] Checking duplicates in creators file...")
     with open("creators.csv", encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=",")
         line_count = 0
@@ -89,7 +99,10 @@ def check_duplicate_creators():
 
 
 def check_duplicate_scheduled():
-    print("[-] Checking duplicates in scheduled...")
+    """Check if in the scheduled file there
+    are some duplicate profiles.
+    """
+    print("[-] Checking duplicates in scheduled file...")
     creators = read_scheduled()
     duplicates = []
     for creator in creators:
@@ -108,7 +121,7 @@ def insert_users_readme(users, not_ok):
                 count += 1
                 stri = stringed(elem)
                 f.write(stri)
-    print("[+] Added {} creators into README.".format(count))
+    print("[+] Added {} creators into README file.".format(count))
 
 
 def insert_users_creators(users, not_ok):
@@ -119,10 +132,14 @@ def insert_users_creators(users, not_ok):
             if elem not in not_ok:
                 count += 1
                 f.write(elem + "," + "\n")
-    print("[+] Added {} creators into creators.".format(count))
+    print("[+] Added {} creators into creators file.".format(count))
 
 
 def present_in_readme(users):
+    """Check if in the README.md file
+    if some of the scheduled profiles are
+    already in.
+    """
     print("[-] Checking if users already in README...")
     with open("README.md", encoding="utf8") as f:
         text = f.read()
@@ -134,6 +151,10 @@ def present_in_readme(users):
 
 
 def present_in_creators(users):
+    """Check if in the creators.csv file
+    if some of the scheduled profiles are
+    already in.
+    """
     print("[-] Checking if users already in creators...")
     with open("creators.csv", encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=",")
@@ -189,36 +210,53 @@ def flush_scheduled():
 
 def add_func():
     candidates = read_scheduled()
+
+    # - scheduled file is empty -
     if candidates[0] == "placeholder":
         print("[!] Scheduled empty.")
         return 0
+
     duplicates = check_duplicate_readme()
+
     if len(duplicates) > 0:
         print("[!] Duplicates found in README!")
         print(duplicates)
         return 0
+
     duplicates = check_duplicate_creators()
+
     if len(duplicates) > 0:
         print("[!] Duplicates found in creators!")
         print(duplicates)
         return 0
+
     duplicates = check_duplicate_scheduled()
+
     if len(duplicates) > 0:
         print("[!] Duplicates found in scheduled!")
         print(duplicates)
         return 0
+
     candidates = read_scheduled()
+
     not_ok = present_in_readme(candidates)
+
     if len(not_ok) > 0:
         print("[!] Users already in README!")
         print(not_ok)
+
     insert_users_readme(candidates, not_ok)
+
     not_ok = present_in_creators(candidates)
+
     if len(not_ok) > 0:
         print("[!] Users already in creators!")
         print(not_ok)
+
     insert_users_creators(candidates, not_ok)
+
     flush_scheduled()
+
     print("[#] Finished!")
 
 

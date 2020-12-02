@@ -1,9 +1,9 @@
 ---
 name: Add my username
 about: I want to be added❤️
-title: 'I want to be added❤️'
-labels: 'add username'
-assignees: 'edoardottt'
+title: I want to be added❤️
+labels: add username
+assignees: edoardottt
 
 ---
 

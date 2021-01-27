@@ -3186,3 +3186,9 @@
 | elenaagiunta | https://instagram.com/elenaagiunta |
 | olga.romio | https://instagram.com/olga.romio |
 | annagey | https://instagram.com/annagey |
+| sissiottostyle | https://instagram.com/sissiottostyle |
+| alex\_premoli | [https://instagram.com/alex\_premoli](https://instagram.com/alex_premoli) |
+| frenzine | https://instagram.com/frenzine |
+| filippodicaprio\_ | [https://instagram.com/filippodicaprio\_](https://instagram.com/filippodicaprio_) |
+| lorenzo.manunza | https://instagram.com/lorenzo.manunza |
+| carlabeattriz | https://instagram.com/carlabeattriz |

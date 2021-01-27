@@ -3192,3 +3192,8 @@
 | filippodicaprio\_ | [https://instagram.com/filippodicaprio\_](https://instagram.com/filippodicaprio_) |
 | lorenzo.manunza | https://instagram.com/lorenzo.manunza |
 | carlabeattriz | https://instagram.com/carlabeattriz |
+| luigichiurchi | https://instagram.com/luigichiurchi |
+| bianco\_mat | [https://instagram.com/bianco\_mat](https://instagram.com/bianco_mat) |
+| ramsk\_ | [https://instagram.com/ramsk\_](https://instagram.com/ramsk_) |
+| claudio.pagnacco | https://instagram.com/claudio.pagnacco |
+| elenascotton | https://instagram.com/elenascotton |

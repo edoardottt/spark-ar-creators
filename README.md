@@ -3178,3 +3178,11 @@
 | veronica.dambr | https://instagram.com/veronica.dambr |
 | andreaa.congiu | https://instagram.com/andreaa.congiu |
 | kornienko.dan | https://instagram.com/kornienko.dan |
+| giogenius\_ | [https://instagram.com/giogenius\_](https://instagram.com/giogenius_) |
+| manuelairena | https://instagram.com/manuelairena |
+| heymarinn | https://instagram.com/heymarinn |
+| lyo.thecat | https://instagram.com/lyo.thecat |
+| ssilvialuciani | https://instagram.com/ssilvialuciani |
+| elenaagiunta | https://instagram.com/elenaagiunta |
+| olga.romio | https://instagram.com/olga.romio |
+| annagey | https://instagram.com/annagey |

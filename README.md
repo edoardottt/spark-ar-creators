@@ -3176,3 +3176,5 @@
 | marco\_digesare | [https://instagram.com/marco\_digesare](https://instagram.com/marco_digesare) |
 | \_alessandro\_staderini\_ | [https://instagram.com/\_alessandro\_staderini\_](https://instagram.com/_alessandro_staderini_) |
 | veronica.dambr | https://instagram.com/veronica.dambr |
+| andreaa.congiu | https://instagram.com/andreaa.congiu |
+| kornienko.dan | https://instagram.com/kornienko.dan |

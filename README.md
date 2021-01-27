@@ -3174,3 +3174,5 @@
 | lyxsw | https://instagram.com/lyxsw |
 | belzeburp | https://instagram.com/belzeburp |
 | marco\_digesare | [https://instagram.com/marco\_digesare](https://instagram.com/marco_digesare) |
+| \_alessandro\_staderini\_ | [https://instagram.com/\_alessandro\_staderini\_](https://instagram.com/_alessandro_staderini_) |
+| veronica.dambr | https://instagram.com/veronica.dambr |

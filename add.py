@@ -210,8 +210,9 @@ def flush_scheduled():
 
 def print_banner():
     print("=================================")
-    print("        SPARK AR CREATORS      ")
+    print("         SPARK AR CREATORS       ")
     print("=================================")
+    print("")
 
 
 def add_func():

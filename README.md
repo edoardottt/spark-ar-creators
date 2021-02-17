@@ -3197,3 +3197,7 @@
 | ramsk\_ | [https://instagram.com/ramsk\_](https://instagram.com/ramsk_) |
 | claudio.pagnacco | https://instagram.com/claudio.pagnacco |
 | elenascotton | https://instagram.com/elenascotton |
+| perri\_vibes | [https://instagram.com/perri\_vibes](https://instagram.com/perri_vibes) |
+| simonediana | https://instagram.com/simonediana |
+| albertotoia\_ | [https://instagram.com/albertotoia\_](https://instagram.com/albertotoia_) |
+| \_michele.doria\_ | [https://instagram.com/\_michele.doria\_](https://instagram.com/_michele.doria_) |

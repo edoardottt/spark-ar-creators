@@ -208,7 +208,14 @@ def flush_scheduled():
     print("[+] Scheduled flushed!")
 
 
+def print_banner():
+    print("=================================")
+    print("        SPARK AR CREATORS      ")
+    print("=================================")
+
+
 def add_func():
+    print_banner()
     candidates = read_scheduled()
 
     # - scheduled file is empty -

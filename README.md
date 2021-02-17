@@ -3212,3 +3212,9 @@
 | tyronsemeraro | https://instagram.com/tyronsemeraro |
 | \_wondercouple\_ | [https://instagram.com/\_wondercouple\_](https://instagram.com/_wondercouple_) |
 | valentinafradegrada | https://instagram.com/valentinafradegrada |
+| gaia\_bernacchia | [https://instagram.com/gaia\_bernacchia](https://instagram.com/gaia_bernacchia) |
+| quellacigno | https://instagram.com/quellacigno |
+| beatricemuraa | https://instagram.com/beatricemuraa |
+| poetadellastrada | https://instagram.com/poetadellastrada |
+| tommasogiogli.tg | https://instagram.com/tommasogiogli.tg |
+| benedettoborsellino | https://instagram.com/benedettoborsellino |

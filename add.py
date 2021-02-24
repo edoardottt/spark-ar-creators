@@ -225,8 +225,21 @@ def print_banner():
     print("")
 
 
+def count_creators():
+    with open("creators.csv", encoding="utf8") as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=",")
+        line_count = 0
+        creators = []
+        for row in csv_reader:
+            line_count += 1
+        return line_count
+
 def add_func():
     print_banner()
+
+    creators_count = count_creators()
+    print("[-] {} creators".format(creators_count))
+
     candidates = read_scheduled()
 
     # - scheduled file is empty -
@@ -274,6 +287,9 @@ def add_func():
     insert_users_creators(candidates, not_ok)
 
     flush_scheduled()
+
+    creators_count = count_creators()
+    print("[-] {} creators".format(creators_count))
 
     print(bcolors.OKGREEN + "[#] Finished!" + bcolors.ENDC)
 

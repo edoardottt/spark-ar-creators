@@ -49,6 +49,16 @@ https://sparkar.facebook.com/ar-studio/
 
 import csv
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 def check_duplicate_readme():
     """Check if in the README.md file there
@@ -121,7 +131,7 @@ def insert_users_readme(users, not_ok):
                 count += 1
                 stri = stringed(elem)
                 f.write(stri)
-    print("[+] Added {} creators into README file.".format(count))
+    print(bcolors.OKGREEN + "[+] Added {} creators into README file.".format(count) + bcolors.ENDC)
 
 
 def insert_users_creators(users, not_ok):
@@ -132,7 +142,7 @@ def insert_users_creators(users, not_ok):
             if elem not in not_ok:
                 count += 1
                 f.write(elem + "," + "\n")
-    print("[+] Added {} creators into creators file.".format(count))
+    print(bcolors.OKGREEN + "[+] Added {} creators into creators file.".format(count) + bcolors.ENDC)
 
 
 def present_in_readme(users):
@@ -221,27 +231,27 @@ def add_func():
 
     # - scheduled file is empty -
     if candidates[0] == "placeholder":
-        print("[!] Scheduled empty.")
+        print(bcolors.FAIL + "[!] Scheduled empty." + bcolors.FAIL)
         return 0
 
     duplicates = check_duplicate_readme()
 
     if len(duplicates) > 0:
-        print("[!] Duplicates found in README!")
+        print(bcolors.WARNING + "[!] Duplicates found in README!" + bcolors.ENDC)
         print(duplicates)
         return 0
 
     duplicates = check_duplicate_creators()
 
     if len(duplicates) > 0:
-        print("[!] Duplicates found in creators!")
+        print(bcolors.WARNING + "[!] Duplicates found in creators!" + bcolors.ENDC)
         print(duplicates)
         return 0
 
     duplicates = check_duplicate_scheduled()
 
     if len(duplicates) > 0:
-        print("[!] Duplicates found in scheduled!")
+        print(bcolors.WARNING + "[!] Duplicates found in scheduled!" + bcolors.ENDC)
         print(duplicates)
         return 0
 
@@ -250,7 +260,7 @@ def add_func():
     not_ok = present_in_readme(candidates)
 
     if len(not_ok) > 0:
-        print("[!] Users already in README!")
+        print(bcolors.WARNING + "[!] Users already in README!" + bcolors.ENDC)
         print(not_ok)
 
     insert_users_readme(candidates, not_ok)
@@ -258,14 +268,14 @@ def add_func():
     not_ok = present_in_creators(candidates)
 
     if len(not_ok) > 0:
-        print("[!] Users already in creators!")
+        print(bcolors.WARNING + "[!] Users already in creators!" + bcolors.ENDC)
         print(not_ok)
 
     insert_users_creators(candidates, not_ok)
 
     flush_scheduled()
 
-    print("[#] Finished!")
+    print(bcolors.OKGREEN + "[#] Finished!" + bcolors.ENDC)
 
 
 if __name__ == "__main__":

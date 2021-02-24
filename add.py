@@ -219,9 +219,9 @@ def flush_scheduled():
 
 
 def print_banner():
-    print(bcolors.HEADER + "=================================" + bcolors.ENDC)
-    print(bcolors.HEADER + "         SPARK AR CREATORS       " + bcolors.ENDC)
-    print(bcolors.HEADER + "=================================" + bcolors.ENDC)
+    print(bcolors.HEADER + "==================================" + bcolors.ENDC)
+    print(bcolors.HEADER + "         SPARK AR CREATORS        " + bcolors.ENDC)
+    print(bcolors.HEADER + "==================================" + bcolors.ENDC)
     print("")
 
 

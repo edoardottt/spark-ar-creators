@@ -3223,3 +3223,6 @@
 | zimo96 | https://instagram.com/zimo96 |
 | ruvoluzione | https://instagram.com/ruvoluzione |
 | vismaramartina | https://instagram.com/vismaramartina |
+| romeo.lasala | https://instagram.com/romeo.lasala |
+| m.aryen\_delgaudio\_\_ | [https://instagram.com/m.aryen\_delgaudio\_\_](https://instagram.com/m.aryen_delgaudio__) |
+| silvia.fascians | https://instagram.com/silvia.fascians |

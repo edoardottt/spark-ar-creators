@@ -61,7 +61,8 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 def check_duplicate_readme():
-    """Check if in the README.md file there
+    """
+    Check if in the README.md file there
     are some duplicate profiles.
     """
     print("[-] Checking duplicates in README file...")
@@ -88,7 +89,8 @@ def check_duplicate_readme():
 
 
 def check_duplicate_creators():
-    """Check if in the creators.csv file there
+    """
+    Check if in the creators.csv file there
     are some duplicate profiles.
     """
     print("[-] Checking duplicates in creators file...")
@@ -109,7 +111,8 @@ def check_duplicate_creators():
 
 
 def check_duplicate_scheduled():
-    """Check if in the scheduled file there
+    """
+    Check if in the scheduled file there
     are some duplicate profiles.
     """
     print("[-] Checking duplicates in scheduled file...")
@@ -146,7 +149,8 @@ def insert_users_creators(users, not_ok):
 
 
 def present_in_readme(users):
-    """Check if in the README.md file
+    """
+    Check if in the README.md file
     if some of the scheduled profiles are
     already in.
     """
@@ -161,7 +165,8 @@ def present_in_readme(users):
 
 
 def present_in_creators(users):
-    """Check if in the creators.csv file
+    """
+    Check if in the creators.csv file
     if some of the scheduled profiles are
     already in.
     """
@@ -194,6 +199,10 @@ def format_user(elem):
 
 
 def stringed(elem):
+    """
+    Format the link to Instagram Profiles with correct escape character
+    sequences to display correctly in the README.md
+    """
     if "_" not in elem:
         stri = "| " + elem + " | " + "https://instagram.com/" + elem + " |\n"
     else:
@@ -235,6 +244,9 @@ def count_creators():
         return line_count
 
 def add_func():
+    """
+    Main Function
+    """
     print_banner()
 
     creators_count = count_creators()

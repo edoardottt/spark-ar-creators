@@ -3226,3 +3226,5 @@
 | romeo.lasala | https://instagram.com/romeo.lasala |
 | m.aryen\_delgaudio\_\_ | [https://instagram.com/m.aryen\_delgaudio\_\_](https://instagram.com/m.aryen_delgaudio__) |
 | silvia.fascians | https://instagram.com/silvia.fascians |
+| rel4tivo | https://instagram.com/rel4tivo |
+| alyssonkastro | https://instagram.com/alyssonkastro |

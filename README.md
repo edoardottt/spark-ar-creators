@@ -7,19 +7,19 @@
 <p align="center">
     <!-- mainteinance -->
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/maintained-yes.svg" alt="Mainteinance yes" />
+        <img src="https://github.com/edoardottt/images/blob/main/spark-ar-creators/maintained-yes.svg" alt="Mainteinance yes" />
       </a>
       <!-- pr-welcome -->
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/pr-welcome.svg" alt="pr welcome" />
+        <img src="https://github.com/edoardottt/images/blob/main/spark-ar-creators/pr-welcome.svg" alt="pr welcome" />
       </a>
     <!-- ask me anything -->
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/ask-me-anything.svg" alt="ask me anything" />
+        <img src="https://github.com/edoardottt/images/blob/main/spark-ar-creators/ask-me-anything.svg" alt="ask me anything" />
       </a>
     <!-- made with python -->
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/spark-ar-creators/blob/master/images/made-with-python.svg" alt="made-with-python" />
+        <img src="https://github.com/edoardottt/images/blob/main/spark-ar-creators/made-with-python.svg" alt="made-with-python" />
       </a>
 </p>
 

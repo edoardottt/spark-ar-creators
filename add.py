@@ -49,16 +49,18 @@ https://sparkar.facebook.com/ar-studio/
 
 import csv
 
+
 class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
+    HEADER = "\033[95m"
+    OKBLUE = "\033[94m"
+    OKCYAN = "\033[96m"
+    OKGREEN = "\033[92m"
+    WARNING = "\033[93m"
+    FAIL = "\033[91m"
+    ENDC = "\033[0m"
+    BOLD = "\033[1m"
+    UNDERLINE = "\033[4m"
+
 
 def check_duplicate_readme():
     """
@@ -124,6 +126,30 @@ def check_duplicate_scheduled():
     return duplicates
 
 
+def check_missing_creators():
+    """
+    Check if there are creators in the creators.csv file
+    not present in the README file.
+    """
+    print("[-] Checking if creators are not in README...")
+    with open("creators.csv", encoding="utf8") as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=",")
+        line_count = 0
+        creators = []
+        for row in csv_reader:
+            if line_count == 0:
+                line_count += 1
+            else:
+                creators.append(row[0])
+    with open("README.md", encoding="utf8") as f:
+        text = f.read()
+    readmes = []
+    for elem in creators:
+        if elem in text:
+            readmes.append(elem)
+    return list(set(creators) - set(readmes))
+
+
 def insert_users_readme(users, not_ok):
     print("[-] Inserting users in README...")
     count = 0
@@ -134,7 +160,11 @@ def insert_users_readme(users, not_ok):
                 count += 1
                 stri = stringed(elem)
                 f.write(stri)
-    print(bcolors.OKGREEN + "[+] Added {} creators into README file.".format(count) + bcolors.ENDC)
+    print(
+        bcolors.OKGREEN
+        + "[+] Added {} creators into README file.".format(count)
+        + bcolors.ENDC
+    )
 
 
 def insert_users_creators(users, not_ok):
@@ -145,7 +175,11 @@ def insert_users_creators(users, not_ok):
             if elem not in not_ok:
                 count += 1
                 f.write(elem + "," + "\n")
-    print(bcolors.OKGREEN + "[+] Added {} creators into creators file.".format(count) + bcolors.ENDC)
+    print(
+        bcolors.OKGREEN
+        + "[+] Added {} creators into creators file.".format(count)
+        + bcolors.ENDC
+    )
 
 
 def present_in_readme(users):
@@ -238,10 +272,10 @@ def count_creators():
     with open("creators.csv", encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=",")
         line_count = 0
-        creators = []
         for row in csv_reader:
             line_count += 1
         return line_count
+
 
 def add_func():
     """
@@ -280,7 +314,16 @@ def add_func():
         print(duplicates)
         return 0
 
-    candidates = read_scheduled()
+    missing = check_missing_creators()
+
+    if len(missing) > 0:
+        print(
+            bcolors.WARNING
+            + "[!] Creators found in csv and not in README!"
+            + bcolors.ENDC
+        )
+        print(missing)
+        return 0
 
     not_ok = present_in_readme(candidates)
 

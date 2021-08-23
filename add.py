@@ -267,7 +267,7 @@ def print_banner():
     print(bcolors.HEADER + "==================================" + bcolors.ENDC)
     print("")
     print("        > @author: edoardottt")
-    print("        > https://edoardoottavianelli.it")
+    print("        > https://www.edoardoottavianelli.it")
     print("        > https://github.com/edoardottt/spark-ar-creators")
     print("        > https://instagram.com/edoardottt")
     print("")

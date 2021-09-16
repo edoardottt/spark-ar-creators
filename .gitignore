@@ -1,5 +1,7 @@
 # spark-ar-creators
 scrape.js
+usersTxt.txt
+data.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

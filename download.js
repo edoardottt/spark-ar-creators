@@ -19,6 +19,7 @@ for (var i = 0; i < links.length; i++) {
 		- /p/ for posts 
 		- /a/r/ for effects/filters
 		- /stories/ for stories
+		- /explore/ for explore filters
     */
     if (
 	    (sub.substring(0, 22) == "https://instagram.com/" || 
@@ -32,7 +33,9 @@ for (var i = 0; i < links.length; i++) {
 	    !(sub.substring(0,29) == "https://www.instagram.com/ar/" ||
 	    sub.substring(0,25) == "https://instagram.com/ar/") &&
 	    !(sub.substring(0,34) == "https://www.instagram.com/stories/" ||
-	    sub.substring(0,30) == "https://instagram.com/stories/")
+	    sub.substring(0,30) == "https://instagram.com/stories/") &&
+	    !(sub.substring(0,34) == "https://www.instagram.com/explore/" ||
+	    sub.substring(0,30) == "https://instagram.com/explore/")
     ) {
         array.push(sub);
     }

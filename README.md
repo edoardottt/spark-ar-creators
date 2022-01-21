@@ -1,4 +1,4 @@
-# Spark AR Creators 🎭✨
+# ✨🎭 Spark AR Creators 🎭✨
 
 <p align="center">
 <b>List of 9500 (and counting) Spark AR Creators. Open an issue or contact me if you want to be added❤️</b>

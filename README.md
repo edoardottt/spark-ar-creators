@@ -1499,7 +1499,6 @@
 | ekaterina__di | https://instagram.com/ekaterina__di |
 | deoeffendi_ | [https://instagram.com/deoeffendi_](https://instagram.com/deoeffendi_) |
 | pelicanpartystudios | https://instagram.com/pelicanpartystudios |
-| smoritz127 | https://instagram.com/smoritz127 |
 | fr1gh7 | https://instagram.com/fr1gh7 |
 | nikmsw | https://instagram.com/nikmsw |
 | boldkarma | https://instagram.com/boldkarma |

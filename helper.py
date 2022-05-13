@@ -48,6 +48,7 @@ https://sparkar.facebook.com/ar-studio/
 """
 
 import csv
+import sys
 
 
 class bcolors:
@@ -284,7 +285,7 @@ def count_creators():
 
 def add_func():
     """
-    Main Function
+    This function adds users to the list
     """
     print_banner()
 
@@ -354,5 +355,22 @@ def add_func():
     print(bcolors.OKGREEN + "[#] Finished!" + bcolors.ENDC)
 
 
+def remove_func():
+    """
+    This function removes users to the list
+    """
+    print("remove")
+
+
 if __name__ == "__main__":
-    add_func()
+    if len(sys.argv) < 2:
+        print("usage: python helper.py { action }")
+        print("action can be add or remove")
+        sys.exit()
+    if len(sys.argv[1]) == "add":
+        add_func()
+    elif len(sys.argv[1]) == "remove":
+        remove_func()
+    else:
+        print("usage: python helper.py { action }")
+        print("action can be add or remove")

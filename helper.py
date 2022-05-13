@@ -283,12 +283,7 @@ def count_creators():
         return line_count
 
 
-def add_func():
-    """
-    This function adds users to the list
-    """
-    print_banner()
-
+def checks():
     creators_count = count_creators()
     print("[-] {} creators".format(creators_count))
 
@@ -297,28 +292,28 @@ def add_func():
     # - scheduled file is empty -
     if candidates[0] == "placeholder":
         print(bcolors.FAIL + "[!] Scheduled empty." + bcolors.FAIL)
-        return 0
+        sys.exit()
 
     duplicates = check_duplicate_readme()
 
     if len(duplicates) > 0:
         print(bcolors.WARNING + "[!] Duplicates found in README!" + bcolors.ENDC)
         print(duplicates)
-        return 0
+        sys.exit()
 
     duplicates = check_duplicate_creators()
 
     if len(duplicates) > 0:
         print(bcolors.WARNING + "[!] Duplicates found in creators!" + bcolors.ENDC)
         print(duplicates)
-        return 0
+        sys.exit()
 
     duplicates = check_duplicate_scheduled()
 
     if len(duplicates) > 0:
         print(bcolors.WARNING + "[!] Duplicates found in scheduled!" + bcolors.ENDC)
         print(duplicates)
-        return 0
+        sys.exit()
 
     missing = check_missing_creators()
 
@@ -329,7 +324,17 @@ def add_func():
             + bcolors.ENDC
         )
         print(missing)
-        return 0
+        sys.exit()
+    return candidates
+
+
+def add_func():
+    """
+    This function adds users to the list
+    """
+    print_banner()
+
+    candidates = checks()
 
     not_ok = present_in_readme(candidates)
 
@@ -359,7 +364,9 @@ def remove_func():
     """
     This function removes users to the list
     """
-    print("remove")
+    print_banner()
+
+    candidates = checks()
 
 
 if __name__ == "__main__":

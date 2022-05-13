@@ -280,7 +280,7 @@ def count_creators():
         line_count = 0
         for row in csv_reader:
             line_count += 1
-        return line_count
+        return line_count - 1
 
 
 def checks():

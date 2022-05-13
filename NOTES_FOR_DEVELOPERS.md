@@ -1,3 +1,3 @@
 ### How can I retrieve data? 
 
-- CSV: [http://edoardottt.github.io/spark-ar-creators/creators.csv](http://edoardottt.github.io/spark-ar-creators/creators.csv)
+- CSV: [https://edoardottt.github.io/spark-ar-creators/creators.csv](https://edoardottt.github.io/spark-ar-creators/creators.csv)

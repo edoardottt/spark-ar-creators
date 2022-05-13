@@ -368,15 +368,81 @@ def remove_func():
 
     candidates = checks()
 
+    creators = []
+
+    with open("creators.csv", encoding="utf8") as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=",")
+        line_count = 0
+        for row in csv_reader:
+            if line_count == 0:
+                line_count += 1
+            else:
+                creators.append(row[0])
+
+    with open("creators.csv", "w+") as f:
+        f.write("ig_username" + "," + "\n")
+        for elem in creators:
+            if elem not in candidates:
+                f.write(elem + "," + "\n")
+
+    with open("README.md", "w+", encoding="utf8") as f:
+        init_readme = """<h1 align="center">
+✨🎭 Spark AR Creators 🎭✨
+</h1>
+
+<p align="center">
+<b>List of 9500 (and counting) Spark AR Creators. Open an issue or contact me if you want to be added</b>
+</p>
+<!-- badges -->
+<p align="center">
+    <!-- mainteinance -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/images/blob/main/spark\
+-ar-creators/maintained-yes.svg" alt="Mainteinance yes" />
+      </a>
+      <!-- pr-welcome -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/images/blob/main/spark\
+-ar-creators/pr-welcome.svg" alt="pr welcome" />
+      </a>
+    <!-- ask me anything -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/images/blob/main/spark\
+-ar-creators/ask-me-anything.svg" alt="ask me anything" />
+      </a>
+    <!-- made with python -->
+      <a href="https://edoardoottavianelli.it">
+        <img src="https://github.com/edoardottt/images/blob/main/spark\
+-ar-creators/made-with-python.svg" alt="made-with-python" />
+      </a>
+</p>
+
+| Username | Link to Profile |
+| --- | --- |
+"""
+        f.write(init_readme)
+        for i in range(len(creators)):
+            elem = creators[i]
+            if elem not in candidates:
+                stri = stringed(elem)
+                f.write(stri)
+
+    flush_scheduled()
+
+    creators_count = count_creators()
+    print("[-] {} creators".format(creators_count))
+
+    print(bcolors.OKGREEN + "[#] Finished!" + bcolors.ENDC)
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("usage: python helper.py { action }")
         print("action can be add or remove")
         sys.exit()
-    if len(sys.argv[1]) == "add":
+    if sys.argv[1] == "add":
         add_func()
-    elif len(sys.argv[1]) == "remove":
+    elif sys.argv[1] == "remove":
         remove_func()
     else:
         print("usage: python helper.py { action }")

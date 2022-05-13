@@ -5,8 +5,8 @@
 var array = [];
 var links = document.getElementsByTagName("a");
 for (var i = 0; i < links.length; i++) {
-    var sub = links[i].href;
-    /*
+	var sub = links[i].href;
+	/*
 	Here we check if the links we are collecting are proper ones
 	or not.
 	We want only the instagram profile links.
@@ -20,25 +20,25 @@ for (var i = 0; i < links.length; i++) {
 		- /a/r/ for effects/filters
 		- /stories/ for stories
 		- /explore/ for explore filters
-    */
-    if (
-	    (sub.substring(0, 22) == "https://instagram.com/" || 
-	    sub.substring(0,26) == "https://www.instagram.com/") &&
-	    !(sub.substring(0,28) == "https://www.instagram.com/s/" ||
-	    sub.substring(0,24) == "https://instagram.com/s/") &&
-	    !(sub.substring(0,28) == "https://www.instagram.com/a/" ||
-	    sub.substring(0,24) == "https://instagram.com/a/") &&
-	    !(sub.substring(0,28) == "https://www.instagram.com/p/" ||
-	    sub.substring(0,24) == "https://instagram.com/p/") &&
-	    !(sub.substring(0,29) == "https://www.instagram.com/ar/" ||
-	    sub.substring(0,25) == "https://instagram.com/ar/") &&
-	    !(sub.substring(0,34) == "https://www.instagram.com/stories/" ||
-	    sub.substring(0,30) == "https://instagram.com/stories/") &&
-	    !(sub.substring(0,34) == "https://www.instagram.com/explore/" ||
-	    sub.substring(0,30) == "https://instagram.com/explore/")
-    ) {
-        array.push(sub);
-    }
+	*/
+	if (
+		(sub.substring(0, 22) == "https://instagram.com/" ||
+			sub.substring(0, 26) == "https://www.instagram.com/") &&
+		!(sub.substring(0, 28) == "https://www.instagram.com/s/" ||
+			sub.substring(0, 24) == "https://instagram.com/s/") &&
+		!(sub.substring(0, 28) == "https://www.instagram.com/a/" ||
+			sub.substring(0, 24) == "https://instagram.com/a/") &&
+		!(sub.substring(0, 28) == "https://www.instagram.com/p/" ||
+			sub.substring(0, 24) == "https://instagram.com/p/") &&
+		!(sub.substring(0, 29) == "https://www.instagram.com/ar/" ||
+			sub.substring(0, 25) == "https://instagram.com/ar/") &&
+		!(sub.substring(0, 34) == "https://www.instagram.com/stories/" ||
+			sub.substring(0, 30) == "https://instagram.com/stories/") &&
+		!(sub.substring(0, 34) == "https://www.instagram.com/explore/" ||
+			sub.substring(0, 30) == "https://instagram.com/explore/")
+	) {
+		array.push(sub);
+	}
 }
 JSON.stringify(array)
 

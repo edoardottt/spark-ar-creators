@@ -3,13 +3,10 @@
 """
 ================================
 
-@author: edoardottt
-
-https://edoardoottavianelli.it
-
-https://github.com/edoardottt/spark-ar-creators
-
-https://instagram.com/edoardottt
+> @author: edoardottt
+> https://edoardoottavianelli.it
+> https://github.com/edoardottt/spark-ar-creators
+> https://instagram.com/edoardottt
 
 ================================
 

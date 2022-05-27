@@ -9753,3 +9753,4 @@
 | dazzle.verse | https://instagram.com/dazzle.verse |
 | artoon\_filters | [https://instagram.com/artoon\_filters](https://instagram.com/artoon_filters) |
 | aqil.h6 | https://instagram.com/aqil.h6 |
+| Hi\_waves | [https://instagram.com/Hi\_waves](https://instagram.com/Hi_waves) |

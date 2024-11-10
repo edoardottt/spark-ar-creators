@@ -1,6 +1,6 @@
 // spark-ar-creators
 // > https://github.com/edoardottt/spark-ar-creators
-// > edoardottt, edoardoottavianelli.it
+// > edoardottt, edoardottt.com
 //
 // paste this on web console and execute the code.
 var array = [];
